@@ -6,7 +6,7 @@ https://console.groq.com/keys
 
 Go to the Groq website and create an account or log in using Google, GitHub, SSO, or your email address.
 
-![Screenshot](images/Screenshot 2026-08-19 155102.png)
+![Groq Account Setup](images/Screenshot%202026-08-19%20155102.png)
 
 ## Step 2: Open the API Keys Page
 
