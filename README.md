@@ -209,13 +209,13 @@ From the account or workspace menu, select **API Keys** to manage and create API
 
 ![NVIDIA API Keys](images/Screenshot%202026-08-19%20163717.png)
 
-## Step 8: Generate an API Key
+## Step 8: Configure the API Key
 
 On the API Keys page, click **Generate API Key**.
 
 ![Generate NVIDIA API Key](images/Screenshot%202026-08-19%20163739.png)
 
-## Step 9: Configure the API Key
+## Step 9: Generate an API Key
 
 Enter a suitable **Key Name**, for example:
 
