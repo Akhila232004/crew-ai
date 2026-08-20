@@ -49,7 +49,7 @@ After entering the display name and selecting the expiration option, click the *
 
 Go to the Mistral AI platform and create an account or log in using your email or one of the available sign-in options.
 
-https://mistral.ai/
+https://console.mistral.ai/
 
 ![Mistral Login](images/Screenshot%202026-08-19%20161153%20-%20Copy%20-%20Copy.png)
 
