@@ -206,29 +206,26 @@ After signing in, click the profile icon in the top-right corner and select your
 ## Step 7: Open API Keys
 
 From the account or workspace menu, select **API Keys** to manage and create API keys.
+On the API Keys page, click **Generate API Key**.
 
 ![NVIDIA API Keys](images/Screenshot%202026-08-19%20163717.png)
 
 ## Step 8: Configure the API Key
-
-On the API Keys page, click **Generate API Key**.
-
-![Generate NVIDIA API Key](images/Screenshot%202026-08-19%20163739.png)
-
-## Step 9: Generate an API Key
-
 Enter a suitable **Key Name**, for example:
 
 `crew.ai`
 
 Select the expiration period and click **Generate Key**.
 
-![Configure NVIDIA API Key](images/Screenshot%202026-08-19%20163854.png)
+![Generate NVIDIA API Key](images/Screenshot%202026-08-19%20163739.png)
 
-## Step 10: Copy and Save the API Key
-
+## Step 9: Generate an API Key
 The generated API key will be displayed only once.
 
 Click **Copy API Key** and store it securely in a safe location.
 
 Do not share the key publicly.
+
+
+![Configure NVIDIA API Key](images/Screenshot%202026-08-19%20163854.png)
+
