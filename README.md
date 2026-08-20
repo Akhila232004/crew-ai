@@ -38,7 +38,7 @@ After logging in, accept the Mistral AI Terms of Service and Privacy Policy by c
 
 ## Step 3: Open the API Keys section
 Once you enter Mistral Studio, click API Keys from the left sidebar.
-![Screenshot](<Screenshot 2026-08-19 161412.png>)
+!![Screenshot](<Screenshot 2026-08-19 161412.png>)
 
 ## Step 4: Create a new API key
 In the My API Keys section, click the Create new key button to generate a new API key.
